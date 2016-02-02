@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VPYRO Pin=*7--
+Added Pin To Net: NetName=VPYRO Pin=*7-+
+Added Pin To Net: NetName=Net*7_- Pin=*7--
+Added Net: Name=Net*7_-

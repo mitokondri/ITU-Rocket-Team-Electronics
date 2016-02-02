@@ -1,0 +1,55 @@
+Bill of Material for 
+On 31.01.2016 at 21:54:53
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.1uF               0603-CAP         6    C1, C2, C3, C4, C5, C7                            
+ 0.22uF              0603-CAP         1    C10                                               
+ 10                  0603-RES         2    R16, R17                                          
+ 100nF               0603-CAP         8    C11, C14, C16, C17, C20, C21                      
+                                           C24, C25
+ 10K                 0603-RES         5    R3, R4, R7, R8, R9                                
+ 10nF                0603-CAP         1    C6                                                
+ 1K                  0603-RES         5    R5, R12, R18, R19, R22                            
+ 1uF                 0603-CAP         2    C12, C13                                          
+ 2.2nF               0603-CAP         1    C8                                                
+ 220                 0603-RES         2    R15, R20                                          
+ 2N3904              TO-92A           1    Q3                           NPN General Purpose Amplifier 
+ 33uF                PANASONIC_C      2    C15, C18                                          
+ 4.7K                0603-RES         3    R6, R13, R23                                      
+ 4.7uF               CAP0805-NP       1    C9                                                
+ 470                 0603-RES         2    R11, R21                                          
+ 470uF               PANASONIC_E      3    C19, C22, C23                                     
+ 4K7                 0603-RES         2    R1, R2                                            
+ ADXL345             LGA14            1    U1                                                
+ APEM ONBOARD SWITCH Switch_5.08      1    *2                           SWITCH SLIDE SPDT 4A 125V 
+ BSS138              SOT23-3          2    Q1, Q2                       MOSFET N-CH 50V 220MA SOT-23 
+ Buzzer              Buzzer-A3        1    LS1                          Magnetic Transducer Buzzer 
+ Diode               SMB              1    D1                           Default Diode        
+ Header              HEADER_3         2    H1, H5                                            
+ HMC5883LSMD         16LPCC           1    U2                                                
+ ILD205T             SOIC-8-ILD205T    1    U7                           OPTOISOLTR 4KV 2CH TRANS 8-SOIC 
+ INA-219             SOIC127P600X175-8N    1    U8                                                
+ ITG-32001:1         QFN-24_ITG3200_1:1    1    U3                                                
+ Jumper-3            SJ_3             4    J1, J2, J3, J4                                    
+ Main Board Battery  POWER_SOCKET     1    *3                                                
+ MICRO-SD-SOCKET     micro-sd         1    S1                                                
+ MOSFET-N            to-252           2    Q4, Q5                       N-Channel MOSFET     
+ MPL115A1            LGA8             1    U6                                                
+ MS5611-01BA03       MS5611-01BA03    1    U4                                                
+ NUCLEO_F303K8       nucleo_f303      1    IC1                                               
+ OPTIONAL_LED        0603-SMD-LED     2    D2, D4                       LED RED CLEAR 0603 SMD 
+ Pololu-Step-Down-D24V6ALV Pololu-D24V6ALV    1    IC3                                               
+ PYRO REMOVE BEFORE FLIGHT SWITCH POWER_SOCKET     1    *5                                                
+ PYRO1 LED           0603-SMD-LED     1    D3                           LED RED CLEAR 0603 SMD 
+ PYRO1               POWER_SOCKET     1    *4                                                
+ PYRO2 LED           0603-SMD-LED     1    D5                           LED RED CLEAR 0603 SMD 
+ PYRO2               POWER_SOCKET     1    *4                                                
+ Rshunt              Resistor-Shunt    1    R10                                               
+ SEPERATED PYRO BATTERY POWER_SOCKET     1    *4                                                
+ SEPERATED SERVO POWER SERVO            1    H2                                                
+ Servo Header 1      SERVO            1    H3                                                
+ Servo Header 2      SERVO            1    H4                                                
+ Sparkfun Venus GPS  SPARKFUN_VENUS_GPS    1    IC2                                               
+ TMP1021:1           SOT563-2         1    U5                                                
+ XBEE-MODULE         XBEE-MODULE      1    *1                                                

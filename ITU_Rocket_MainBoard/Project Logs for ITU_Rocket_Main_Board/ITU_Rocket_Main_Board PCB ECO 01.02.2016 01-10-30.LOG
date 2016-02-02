@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=NetR20_2 Pin=U7-5
+Added Pin To Net: NetName=VPYRO Pin=U7-6
+Added Pin To Net: NetName=NetR11_2 Pin=U7-7
+Added Pin To Net: NetName=VPYRO Pin=U7-8
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=LS1-2
+Added Pin To Net: NetName=NetD1_1 Pin=Q3-3
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=U7-1
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=U7-3
+Added Net: Name=NetR19_1
+Added Room: Name=ITU_Rocket_Main_Board
